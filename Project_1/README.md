@@ -1,4 +1,4 @@
-# Data Cleaning & Preprocessing Pipeline
+# Data Cleaning & Preparation
 A Python-based automated data cleaning pipeline using **Pandas** and **NumPy**. This script processes raw e-commerce order datasets, handles missing values, removes duplicates, standardizes string formats, and exports clean, ready-to-analyze data.
 ## 📌 Features
  **Data Inspection:** Logs original dataset dimensions, structure, and missing value counts.
